@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="jackson-core-2.13.0-rc1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/OjbectMapper/jackson-core-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/mysql-connector-java-8.0.26/mysql-connector-java-8.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JsonResultSet/resultset-mapper-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/OjbectMapper/jackson-annotations-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/netty-resolver-4.1.60.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jsonmapping/jackson-core-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jsonmapping/jackson-databind-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JSONArray/rest-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/OjbectMapper/jackson-databind-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jsonmapper/jackson-databind-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/quarkus-http-http-core-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JSONArray/json-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JsonResultSet/slf4j-log4j12-2.0.0-alpha4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/quarkus-http-core-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/jboss-logging-3.4.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JSONArray/json-20180813.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/netty-transport-4.1.60.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/netty-buffer-4.1.60.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JsonResultSet/slf4j-api-2.0.0-alpha4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/netty-codec-http-4.1.60.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/netty-handler-4.1.60.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/netty-common-4.1.60.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jsonmapper/jackson-core-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jsonmapper/jackson-annotations-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JsonResultSet/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/JSONArray/rest-1.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Undertow/netty-codec-4.1.60.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jsonmapping/jackson-annotations-2.13.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/com.fasterxml.jackson.databind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jtransc-rt-0.6.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jtransc-annotations-0.6.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jtransc-rt-core-0.6.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/object-mapper-0.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Gson/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/WebSocket/Java-WebSocket-1.3.8.jar!/" />
+      <root url="file://$PROJECT_DIR$/../JavaLibraly/OjbectMapper" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jwt/jar_files/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jwt/jar_files/jackson-core-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jwt/jar_files/jackson-databind-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/jwt/jar_files/jjwt-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Datatypeconverter/jar_files (1)/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaLibraly/Datatypeconverter/jar_files (1)/jaxb-api-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../JavaLibraly/OjbectMapper" recursive="false" />
+  </library>
+</component>
